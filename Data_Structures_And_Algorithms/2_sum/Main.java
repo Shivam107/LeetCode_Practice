@@ -1,16 +1,11 @@
-public class Main {
-    public int[] twoSum(int[] numbers, int target) {
-        int left = 0;
-        int right = numbers.length - 1;
-        while(left < right) {
-            int sum = numbers[left] + numbers[right];
-            if(sum == target)
-                return new int[]{left + 1, right + 1};
-            else if(sum > target)
-                right--;
-            else
-                left++;
-        }
-        return new int[]{};
+import java.util.Arrays;
+
+public class Main{
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        int[] nums  = {12, 23 , 34 , 15};
+        int target = 49;
+        int[] result = solution.twoSum(nums , target);
+        System.out.println(Arrays.toString(result));
     }
 }
