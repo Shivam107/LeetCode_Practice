@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 class Optimised {
     public int[] twoSum(int[] nums, int target) {
         HashMap <Integer , Integer> complements = new HashMap<>();
