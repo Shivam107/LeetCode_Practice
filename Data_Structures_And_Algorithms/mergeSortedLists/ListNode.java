@@ -23,4 +23,14 @@ class Solution {
             return list2;
         return list1;
     }
+
+    public int[] twoSum(int[] nums, int target) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'twoSum'");
+    }
+
+    public int[] replaceElements(int[] arr) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'replaceElements'");
+    }
 }
