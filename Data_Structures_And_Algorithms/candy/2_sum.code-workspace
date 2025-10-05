@@ -1,0 +1,80 @@
+{
+	"folders": [
+		{
+			"path": "../2_sum"
+		},
+		{
+			"path": "../Two_Sum_2"
+		},
+		{
+			"path": "../Contains_Duplicate"
+		},
+		{
+			"path": "../anagram"
+		},
+		{
+			"path": "../arrayAfterK_Multiplication"
+		},
+		{
+			"path": "../conactenationOfArray"
+		},
+		{
+			"path": "../ReplaceGreatestElementOnRight"
+		},
+		{
+			"path": "../IsSubsequence"
+		},
+		{
+			"path": "../keyOf The Numbers"
+		},
+		{
+			"path": "../ChessboardColor"
+		},
+		{
+			"path": "../nQueens"
+		},
+		{
+			"path": "../buyAndSellStocks"
+		},
+		{
+			"path": "../ValidParantheses"
+		},
+		{
+			"path": "../MinRotatedArray"
+		},
+		{
+			"path": "../quickSort"
+		},
+		{
+			"path": "../binarySearch"
+		},
+		{
+			"path": "../reverseLinkedList"
+		},
+		{
+			"path": "../invertBinaryTree"
+		},
+		{
+			"path": "../climbingStairs"
+		},
+		{
+			"path": "../../../productOfArray"
+		},
+		{
+			"path": "../3sum"
+		},
+		{
+			"path": "../twoSneakyNumbers"
+		},
+		{
+			"path": "../mergeSortedLists"
+		},
+		{
+			"path": "../mostWater"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2_sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChessboardColor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Contains_Duplicate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IsSubsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MinRotatedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ReplaceGreatestElementOnRight" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Two_Sum_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ValidParantheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/anagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arrayAfterK_Multiplication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/binarySearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/buyAndSellStocks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/candy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/climbingStairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/conactenationOfArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/invertBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/keyOf The Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mergeSortedLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mostWater" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nQueens" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/productOfArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/quickSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reverseLinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/twoSneakyNumbers" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
